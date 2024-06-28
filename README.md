@@ -23,8 +23,17 @@ To run this game, you need to have SDL2 installed on your system. Follow the ste
     ```
 3. **Install SDL2:**
     Follow the setup.sh file commands sequentially.
-4 **Run the game:**
+
+4. **Run the game:**
     Run this command in terminal
     ```sh
     make 
     ```
+
+## Acknowledgements
+- SDL for providing the graphics library
+- Classic DX Ball game for the inspiration
+
+## Authors
+
+- Asef Sami Chowdhury
